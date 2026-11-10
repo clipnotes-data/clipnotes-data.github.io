@@ -9,6 +9,7 @@
     "enabled": true,
     "clientName": "ANDROID",
     "clientVersion": "20.10.38",
-    "apiKey": "AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
+    "apiKey": "AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",
+    "webEnabled": true
   }
 }
