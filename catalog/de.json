@@ -1,3 +1,14 @@
 { "schema": 1, "videos": [
   { "youtubeId": "LQiHX6OY_BI", "title": "Our Morning Routine in Slow German", "channel": "Easy German", "level": "B1" }
 ] }
+{
+  "schema": 1,
+  "videos": [
+    {
+      "youtubeId": "dC6ZGLzdaTs",
+      "title": "Deutsch lernen (A1) | Nicos Weg | Folge 1",
+      "channel": "DW Deutsch lernen",
+      "level": "A1"
+    }
+  ]
+}
