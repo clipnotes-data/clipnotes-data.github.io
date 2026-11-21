@@ -93,22 +93,10 @@
   "level": "A1"
 },
     {
-  "youtubeId": "O6m-GslH2kM",
-  "title": "Goethe-Zertifikat A1: Start Deutsch 1 - Sprechen | German A1 Oral Exam",
-  "channel": "24h Deutsch",
-  "level": ""
-},
-    {
   "youtubeId": "oj09gIOsmjk",
   "title": "How to Buy New Shoes in German (A1) | Episode 49 | Easy German",
   "channel": "Learn German Podcast",
   "level": "A1"
-},
-    {
-  "youtubeId": "F6N3RJpnQhE",
-  "title": "A1 German Dialogue: The 17 Most Important Questions for Beginners | Subtitles + Vocabulary",
-  "channel": "Learn German with Lengura",
-  "level": ""
 },
     {
   "youtubeId": "8ZW50gH03EQ",
@@ -373,6 +361,12 @@
   "title": "Ich spreche mit einer Frau",
   "channel": "Deutsch verstehen",
   "level": "B1"
-} 
+},
+    {
+  "youtubeId": "8QevqL0wwUo",
+  "title": "Deutsch lernen | Termin beim Arzt machen krank sein",
+  "channel": "Deutsch verstehen",
+  "level": "B1"
+}
   ]
 }
