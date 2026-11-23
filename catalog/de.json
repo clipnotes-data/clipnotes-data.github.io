@@ -518,18 +518,6 @@
   "channel": "Quarks",
   "level": "C1"
 },
- {
-  "youtubeId": "NSZy3pwu1gI",
-  "title": "Beruf: Polizistin | Doku HD | ARTE",
-  "channel": "ARTEde",
-  "level": "C1"
-},
-  {
-  "youtubeId": "PcARcRrx1qI",
-  "title": "Vaterschaft, die stille Revolution im Körper | Doku HD | ARTE",
-  "channel": "ARTEde",
-  "level": "C1"
-},
   {
   "youtubeId": "Ub2eY8EhTEU",
   "title": "Dieses Experiment hat (leider) funktioniert … | Studio Q",
@@ -569,13 +557,49 @@
   "youtubeId": "hgg7lwi_xzc",
   "title": "Die Geschichte des Döners",
   "channel": "MrWissen2go Geschichte | Terra X",
-  "level": "B2–C1"
+  "level": "C1"
 },
     {
   "youtubeId": "sggacsM-zio",
   "title": "Meine Oma, der SS-Mann und ich | WDR Doku",
   "channel": "WDR Doku",
   "level": "C1"
-}
+},
+    {
+  "youtubeId": "kvjuod-drRs",
+  "title": "Unterwürfig und konservativ: So gefährlich ist der Tradwife-Trend | ZDFinfo Doku",
+  "channel": "ZDFinfo Dokus & Reportagen",
+  "level": "C1"
+},
+    {
+  "youtubeId": "z2tSCTKHAnU",
+  "title": "Haben wir früher alle dieselbe Sprache gesprochen? | Stimmt es, dass...? ARTE",
+  "channel": "ARTEde",
+  "level": "C1"
+},
+    {
+  "youtubeId": "lh-B868xrHM",
+  "title": "Pressefreiheit in der Türkei: Tausende demonstrieren in Istanbul gegen Zensur",
+  "channel": "tagesschau",
+  "level": "C1"
+},
+    {
+  "youtubeId": "B4STPXDtl3M",
+  "title": "Taiwan vs. China: Die Geschichte des Konflikts",
+  "channel": "MrWissen2go Geschichte | Terra X",
+  "level": "C1"
+},
+    {
+  "youtubeId": "GXCBscVciwQ",
+  "title": "Warum endete die Sklaverei? Stimmt es, dass ...? | ARTE",
+  "channel": "ARTEde",
+  "level": "C1"
+},
+   {
+  "youtubeId": "1WOZeMurdYw",
+  "title": "7 Verben mit \"schließen\": abschließen, anschließen, einschließen, verschließen und mehr",
+  "channel": "Deutsch mit Rieke",
+  "level": "C1"
+} 
   ]
 }
