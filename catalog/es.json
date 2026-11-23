@@ -1,4 +1,11 @@
 {
   "schema": 1,
-  "videos": []
+  "videos": [
+    {
+      "youtubeId": "CFmfVQx6kP4",
+      "title": "100 Spanish Words & Phrases All Beginners Should Know | Super Easy Spanish 86",
+      "channel": "Easy Spanish",
+      "level": "A1"
+    }
+  ]
 }
