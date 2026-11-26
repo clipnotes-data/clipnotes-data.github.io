@@ -491,7 +491,7 @@
   "youtubeId": "ZecqyFH7ajY",
   "title": "7 expresiones en español para personas ocupadas [de nivel avanzado]",
   "channel": "Spanish with Vicente",
-  "level": "C1–C2"
+  "level": "C1"
 },
 {
   "youtubeId": "4IUw_T45xx4",
@@ -551,7 +551,7 @@
   "youtubeId": "HIpiHsi0EnA",
   "title": "Only Advanced Spanish Learners Can Understand This Conversation | C1 Spanish",
   "channel": "LightSpeed Spanish",
-  "level": "B2–C1"
+  "level": "C1"
 },
 {
   "youtubeId": "fg5-NebRPOM",
@@ -563,7 +563,7 @@
   "youtubeId": "CeXfYFLOKu8",
   "title": "25 Minutes of Spanish Listening – C1-C2 Level | Real Native Speaker Speed",
   "channel": "Everyday Español",
-  "level": "C1–C2"
+  "level": "C1"
 },
 {
   "youtubeId": "C838Q0-h7i8",
@@ -593,13 +593,13 @@
   "youtubeId": "QRQGs6-G6u8",
   "title": "Anocracia",
   "channel": "Raquel de la Morena",
-  "level": "C1–C2"
+  "level": "C1"
 },
 {
   "youtubeId": "sPPa7TiShhg",
   "title": "Aislados en una masía: así vive un matrimonio mayor autosuficiente",
   "channel": "Eugenio Monesma - Documentales",
-  "level": "B2–C1"
+  "level": "C1"
 },
 {
   "youtubeId": "-_FtjEsX4b4",
@@ -607,6 +607,125 @@
   "channel": "Masterspanish Academy",
   "level": "C1"
 }
- 
+ {
+  "youtubeId": "xYYwvR624Vk",
+  "title": "La Mejor Predicción de Toda la Ciencia",
+  "channel": "QuantumFracture",
+  "level": "C2"
+},
+{
+  "youtubeId": "nLPhL0YJYvg",
+  "title": "Las Tres Veces que Tuvo que ser Descubierto el Big Bang",
+  "channel": "QuantumFracture",
+  "level": "C2"
+},
+{
+  "youtubeId": "eLpXKTgEEbE",
+  "title": "La Velocidad de Este Chorro es MAYOR que la de la LUZ",
+  "channel": "QuantumFracture",
+  "level": "C2"
+},
+{
+  "youtubeId": "MNQWxsF3ODA",
+  "title": "Yellowstone: El Volcán Apocalíptico | Radiografía de la Tierra: Cataclismos",
+  "channel": "Nat Geo en Español",
+  "level": "C2"
+},
+{
+  "youtubeId": "zzpacc9LSpg",
+  "title": "Cleopatra: El Misterio Final (Documental Completo)",
+  "channel": "Nat Geo en Español",
+  "level": "C2"
+},
+{
+  "youtubeId": "FEIWbZZL7CI",
+  "title": "Pablo Escobar: Hombre Vs. Mito (Documental Completo)",
+  "channel": "Nat Geo en Español",
+  "level": "C2"
+},
+{
+  "youtubeId": "jpMgGm-XnsE",
+  "title": "La Megalópolis Perdida (Episodio Completo) | Tesoros Perdidos de Egipto",
+  "channel": "Nat Geo en Español",
+  "level": "C2"
+},
+{
+  "youtubeId": "8J7QhJlZmEQ",
+  "title": "El Experimento De La Cárcel De Stanford: Megaepisodio",
+  "channel": "Nat Geo en Español",
+  "level": "C2"
+},
+{
+  "youtubeId": "8wLaW4dnAaU",
+  "title": "¿El Fin de los Antibióticos? | Nuestros Orígenes",
+  "channel": "Nat Geo en Español",
+  "level": "C2"
+},
+{
+  "youtubeId": "U8HaE-_c8yQ",
+  "title": "Los hallazgos que están reescribiendo la historia: Troya, Grecia y Egipto",
+  "channel": "National Geographic España",
+  "level": "C2"
+},
+  {
+  "youtubeId": "vBo6RMskaZ4",
+  "title": "Los verdaderos secretos ocultos de la historia | DRENAR LOS OCÉANOS",
+  "channel": "National Geographic España",
+  "level": "C2"
+},
+{
+  "youtubeId": "7lITkxLQy2I",
+  "title": "¿Qué secretos hay bajo el Mediterráneo? | DRENAR LOS OCÉANOS",
+  "channel": "National Geographic España",
+  "level": "C2"
+},
+{
+  "youtubeId": "0OShChKuxCM",
+  "title": "El mundo oculto de los fallecidos en Pompeya | DRENAR LOS OCÉANOS",
+  "channel": "National Geographic España",
+  "level": "C2"
+},
+{
+  "youtubeId": "D_pYehEzP1k",
+  "title": "El secreto de Pompeya que los arqueólogos acaban de resolver",
+  "channel": "National Geographic España",
+  "level": "C2"
+},
+{
+  "youtubeId": "58oh13TZcV0",
+  "title": "The 16 Most DESTRUCTIVE EARTHQUAKES in HISTORY",
+  "channel": "Pero eso es otra Historia",
+  "level": "C2"
+},
+{
+  "youtubeId": "E8HSKhQ6MCA",
+  "title": "¿Puede VIVIR una persona DOS SIGLOS?",
+  "channel": "Pero eso es otra Historia",
+  "level": "C2"
+},
+{
+  "youtubeId": "tBvlX7zXC_Q",
+  "title": "De colonia a potencia: el origen de Estados Unidos explicado en poco más de 10 minutos",
+  "channel": "BBC News Mundo",
+  "level": "C2"
+},
+{
+  "youtubeId": "0vmK_OGIcO8",
+  "title": "Isla Coiba, la brutal prisión a cielo abierto convertida en paraíso natural en Panamá",
+  "channel": "BBC News Mundo",
+  "level": "C2"
+},
+{
+  "youtubeId": "zgJGA0L4S3o",
+  "title": "La historia detrás del mito: ¿quién abrió realmente la caja de Pandora?",
+  "channel": "BBC News Mundo",
+  "level": "C2"
+},
+{
+  "youtubeId": "2p-daeNUbMg",
+  "title": "Las lecciones de El Niño más catastrófico de la historia",
+  "channel": "BBC News Mundo",
+  "level": "C2"
+}
   ]
 }
