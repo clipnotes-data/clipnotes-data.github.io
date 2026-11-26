@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "videos": [
+    {
+      "youtubeId": "XXXXXXXXXXX",
+      "title": "Vidéo exemple (à remplacer)",
+      "channel": "Chaîne exemple",
+      "level": "A1"
+    }
+  ]
+}
